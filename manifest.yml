@@ -1,0 +1,5 @@
+---
+applications:
+- name: myappZSamoke2
+  memory: 128M
+  buildpack: nodejs_buildpack
